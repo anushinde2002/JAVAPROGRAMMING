@@ -1,0 +1,4 @@
+check exeception=> compile time exeception
+
+uncheck exception=> runtime exception
+
